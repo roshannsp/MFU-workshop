@@ -1,5 +1,5 @@
 # MFU-workshop
 
-Toq
-Ban
-Ray
+Top
+Ben
+Roy
